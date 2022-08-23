@@ -2,10 +2,19 @@
 body::before {
   content: "";
   display: block;
-  height: 80px;
+  height: 70px;
 }
 
 /* navbar */
 nav {
   background: #eb5757;
+}
+
+/* hero */
+.hero-section {
+  background-image: linear-gradient(360deg, #222, rgba(34, 34, 34, 0)),
+    url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e83f98bae1ad80129fcd7e5_wu-jianxiong-UniC8xhlzaE-unsplash.jpg");
+  background-size: cover;
+
+  height: 550px;
 }
