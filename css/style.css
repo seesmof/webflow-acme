@@ -1,0 +1,11 @@
+/* additional parameters*/
+body::before {
+  content: "";
+  display: block;
+  height: 80px;
+}
+
+/* navbar */
+nav {
+  background: #eb5757;
+}/*# sourceMappingURL=style.css.map */
