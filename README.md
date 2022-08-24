@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" alt="Project logo"></a>
+ <img src="https://miro.medium.com/max/1068/1*6ske8WnmamYRCuSXZH7YoA.jpeg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Acme Sports Shop</h3>
