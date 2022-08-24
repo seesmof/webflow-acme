@@ -25,4 +25,9 @@ nav {
 .hero-section .btn:hover {
   background: white;
   color: #000;
+}
+
+/* support */
+.support-section .card {
+  height: 21rem;
 }/*# sourceMappingURL=style.css.map */
