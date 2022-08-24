@@ -30,4 +30,17 @@ nav {
 /* support */
 .support-section .card {
   height: 21rem;
+}
+
+/* covid */
+.covid-section {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: linear-gradient(180deg, rgba(34, 34, 34, 0.17), #222), url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e83fb3a6948e1f05b20527f_nathan-dumlao-pLoMDKtl-JY-unsplash.jpg");
+  height: 550px;
+}
+.covid-section .btn:hover {
+  background: #eb5757;
+  color: white;
 }/*# sourceMappingURL=style.css.map */
