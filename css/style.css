@@ -1,3 +1,8 @@
+/* root */
+:root {
+  --main: #eb5757;
+}
+
 /* additional parameters*/
 body::before {
   content: "";
@@ -7,7 +12,7 @@ body::before {
 
 /* navbar */
 nav {
-  background: #eb5757;
+  background: var(--main);
 }
 
 /* hero */
@@ -41,6 +46,60 @@ nav {
   height: 550px;
 }
 .covid-section .btn:hover {
-  background: #eb5757;
+  background: var(--main);
   color: white;
+}
+
+/* shop section */
+.shop-section .card {
+  height: 35rem;
+  width: 24.5rem;
+}
+.shop-section .card-one {
+  background-image: url(https://assets.website-files.com/5e853c3383474026e43f2c78/5e856e41c718420c18dd6751_patrick-hendry-eDgUyGu93Yw-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.shop-section .card-two {
+  background-image: url(https://assets.website-files.com/5e853c3383474026e43f2c78/5e8542c1248e59128e08e3e9_ryan-holloway-JyDmUaXMib4-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.shop-section .card-three {
+  background-image: url(https://assets.website-files.com/5e853c3383474026e43f2c78/5e85425605cae11f20d46181_denisse-leon-J7CjWufjmg4-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.shop-section .price {
+  font-size: 0.9rem;
+}
+.shop-section .price span {
+  font-size: 0.8rem;
+  color: var(--main);
+  margin-left: 0.4rem;
+}
+.shop-section .btn-white {
+  background: var(--main);
+  text-transform: none;
+  font-size: 1rem;
+  color: white;
+}
+.shop-section .btn-white:hover {
+  background: #000;
+  color: white;
+}
+.shop-section .btn-dark {
+  background: var(--main);
+  font-size: 0.8rem;
+  color: white;
+}
+.shop-section .btn-black {
+  text-transform: none;
+  font-size: 1rem;
+}
+.shop-section .btn-black:hover {
+  background: var(--main);
 }/*# sourceMappingURL=style.css.map */
