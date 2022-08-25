@@ -1,0 +1,26 @@
+.hero-section {
+  background-image: linear-gradient(180deg, rgba(34, 34, 34, 0.56), #222),
+    url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e85758a28ae07433140f0cb_jed-villejo-bEcC0nyIp2g-unsplash%20(1)%20(1).jpg");
+
+  min-height: 60vh;
+
+  .container {
+    min-height: 60vh;
+  }
+}
+
+.btn-white {
+  background: var(--main);
+  color: #fff;
+  text-transform: none;
+  font-weight: bold;
+
+  &:hover {
+    background: var(--dark);
+    color: #fff;
+  }
+}
+
+.card {
+  border: 2px solid var(--dark);
+}

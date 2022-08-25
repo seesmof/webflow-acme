@@ -1,0 +1,24 @@
+/* root */
+:root {
+  --main: #eb5757;
+  --dark: #262626;
+}
+
+/* additional parameters*/
+body::before {
+  content: "";
+  display: block;
+  height: 70px;
+}
+
+/* navbar */
+nav {
+  background: var(--main);
+}
+
+/* background properties */
+* {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}/*# sourceMappingURL=root.css.map */
