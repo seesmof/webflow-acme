@@ -1,0 +1,29 @@
+section {
+  .row {
+    .col-3 {
+      width: 40%;
+    }
+
+    .col-6 {
+      .btn-outline-black {
+        border-color: var(--main);
+        color: var(--main);
+
+        text-transform: none;
+
+        &:hover {
+          background: var(--main);
+          color: #fff;
+        }
+      }
+
+      .btn-dark {
+        background: #1d9bf0;
+
+        &:hover {
+          background: hsla(204, 88%, 40%);
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+section .row .col-3 {
+  width: 40%;
+}
+section .row .col-6 .btn-outline-black {
+  border-color: var(--main);
+  color: var(--main);
+  text-transform: none;
+}
+section .row .col-6 .btn-outline-black:hover {
+  background: var(--main);
+  color: #fff;
+}
+section .row .col-6 .btn-dark {
+  background: #1d9bf0;
+}
+section .row .col-6 .btn-dark:hover {
+  background: hsl(204deg, 88%, 40%);
+}/*# sourceMappingURL=donate-page.css.map */
