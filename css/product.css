@@ -1,1 +1,8 @@
-/*# sourceMappingURL=product.css.map */
+.col-3 {
+  background-image: url(https://assets.website-files.com/5e853c3383474026e43f2c78/5e85425605cae11f20d46181_denisse-leon-J7CjWufjmg4-unsplash.jpg);
+  margin: 3rem auto;
+}
+
+span {
+  color: var(--main);
+}/*# sourceMappingURL=product.css.map */
