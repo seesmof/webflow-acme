@@ -1,0 +1,15 @@
+.hero {
+  .btn-white {
+    background: var(--main);
+    text-transform: none;
+    color: #fff;
+
+    &:hover {
+      background: var(--dark);
+    }
+  }
+
+  i {
+    color: var(--main);
+  }
+}

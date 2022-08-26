@@ -1,0 +1,11 @@
+.hero .btn-white {
+  background: var(--main);
+  text-transform: none;
+  color: #fff;
+}
+.hero .btn-white:hover {
+  background: var(--dark);
+}
+.hero i {
+  color: var(--main);
+}/*# sourceMappingURL=contact.css.map */
