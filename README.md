@@ -36,11 +36,29 @@ Acme Sports Shop website made mainly with Bootstrap5 and with a little bit of SA
 - [Live View](https://seesmof.github.io/webflow-acme/)
 
 ![Website Page](./img/ACME-seesmof.png)
+
+---
+
 ![Website Page](./img/About-seesmof.png)
+
+---
+
 ![Website Page](./img/Shop-seesmof.png)
+
+---
+
 ![Website Page](./img/Donations-seesmof.png)
+
+---
+
 ![Website Page](./img/Contact-seesmof.png)
+
+---
+
 ![Website Page](./img/Blue-Canvas-Pack-seesmof.png)
+
+---
+
 ![Website Page](./img/Donate-100-seesmof.png)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
