@@ -10,4 +10,33 @@
 .hero-section .btn-outline-white:hover {
   background: #fff;
   color: var(--dark);
+}
+
+.why-section .col-12 p {
+  margin: auto 20rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+.why-section .col-12 h3 {
+  font-size: 0.9rem;
+}
+.why-section .col-3 i {
+  color: var(--main);
+}
+
+.owners-section p {
+  margin: auto 5rem;
+}
+
+.help-section {
+  background-image: linear-gradient(360deg, #222, rgba(34, 34, 34, 0)), url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e84f74f40a146d432ac3598_adam-solomon-WHUDOzd5IYU-unsplash%20(1)%20(1).jpg");
+}
+.help-section h1 {
+  font-size: 3.5rem;
+}
+.help-section .btn-outline-white {
+  text-transform: none;
+}
+.help-section .btn-outline-white:hover {
+  background: #fff;
+  color: var(--dark);
 }/*# sourceMappingURL=about.css.map */
